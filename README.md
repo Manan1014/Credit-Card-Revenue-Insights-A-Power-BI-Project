@@ -26,8 +26,3 @@ This project features a Power BI dashboard designed for real-time analysis of cr
 - Access to a real-time database (e.g., SQL Server, MySQL)
 - Basic understanding of data visualization and Power BI
 
-## Contributing:
-Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
-
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
